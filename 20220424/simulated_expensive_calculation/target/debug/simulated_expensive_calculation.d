@@ -1,0 +1,1 @@
+/Users/baejiwang/Documents/GitHub/Rust_study/20220424/simulated_expensive_calculation/target/debug/simulated_expensive_calculation: /Users/baejiwang/Documents/GitHub/Rust_study/20220424/simulated_expensive_calculation/src/main.rs

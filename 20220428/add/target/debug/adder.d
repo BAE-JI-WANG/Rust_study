@@ -1,0 +1,1 @@
+/Users/baejiwang/Documents/GitHub/Rust_study/20220428/add/target/debug/adder: /Users/baejiwang/Documents/GitHub/Rust_study/20220428/add/add-one/src/lib.rs /Users/baejiwang/Documents/GitHub/Rust_study/20220428/add/adder/src/main.rs
